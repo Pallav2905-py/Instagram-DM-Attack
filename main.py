@@ -49,7 +49,7 @@ time_duration = 10
 time_start = time.time()
 
 while time.time() < time_start + time_duration:
-    web.type("Hey, you mother fucking BOT!!!\n")
+    web.type("\n")
     i = i + 1
     print(i)
 
